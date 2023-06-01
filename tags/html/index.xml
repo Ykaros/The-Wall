@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>HTML - Tag - My New Hugo Site</title>
-        <link>http://example.org/tags/html/</link>
-        <description>HTML - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/html/" rel="self" type="application/rss+xml" /><item>
+        <title>HTML - Tag - Labyrinth</title>
+        <link>http://ykaros.github.io/tags/html/</link>
+        <description>HTML - Tag - Labyrinth</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://ykaros.github.io/tags/html/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
-    <link>http://example.org/posts/basic-markdown-syntax/</link>
+    <link>http://ykaros.github.io/archive/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Dillon</author>
-    <guid>http://example.org/posts/basic-markdown-syntax/</guid>
+    <guid>http://ykaros.github.io/archive/basic-markdown-syntax/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item>
 </channel>
