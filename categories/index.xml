@@ -3,12 +3,20 @@
         <title>Categories - Category - Labyrinth</title>
         <link>http://ykaros.github.io/categories/</link>
         <description>Categories - Category - Labyrinth</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://ykaros.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Markdown</title>
-    <link>http://ykaros.github.io/categories/markdown/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://ykaros.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Cinematography</title>
+    <link>http://ykaros.github.io/categories/cinematography/</link>
+    <pubDate>Mon, 05 Jun 2023 00:00:00 &#43;0000</pubDate>
     <author>Ykaros</author>
-    <guid>http://ykaros.github.io/categories/markdown/</guid>
+    <guid>http://ykaros.github.io/categories/cinematography/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Machine Learning</title>
+    <link>http://ykaros.github.io/categories/machine-learning/</link>
+    <pubDate>Thu, 01 Oct 2020 00:00:00 &#43;0000</pubDate>
+    <author>Ykaros</author>
+    <guid>http://ykaros.github.io/categories/machine-learning/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>

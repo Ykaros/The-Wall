@@ -3,7 +3,23 @@
         <title>Labyrinth</title>
         <link>http://ykaros.github.io/</link>
         <description>SORRY, NO ART TODAY.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 Jun 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://ykaros.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Best Sci-fi Films of All Time</title>
+    <link>http://ykaros.github.io/best-sci-fi/</link>
+    <pubDate>Mon, 05 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Ykaros</author>
+    <guid>http://ykaros.github.io/best-sci-fi/</guid>
+    <description><![CDATA[Favourite Sci-Fi Films.]]></description>
+</item>
+<item>
+    <title>Convolutional Neural Network</title>
+    <link>http://ykaros.github.io/convolutional-neural-network/</link>
+    <pubDate>Thu, 01 Oct 2020 00:00:00 &#43;0000</pubDate>
+    <author>Ykaros</author>
+    <guid>http://ykaros.github.io/convolutional-neural-network/</guid>
+    <description><![CDATA[This article provides basic fundamentals of CNN.]]></description>
+</item>
+</channel>
 </rss>

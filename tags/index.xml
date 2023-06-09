@@ -3,21 +3,5 @@
         <title>Tags - Tag - Labyrinth</title>
         <link>http://ykaros.github.io/tags/</link>
         <description>Tags - Tag - Labyrinth</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://ykaros.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>HTML</title>
-    <link>http://ykaros.github.io/tags/html/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Ykaros</author>
-    <guid>http://ykaros.github.io/tags/html/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Markdown</title>
-    <link>http://ykaros.github.io/tags/markdown/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Ykaros</author>
-    <guid>http://ykaros.github.io/tags/markdown/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://ykaros.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
