@@ -1,9 +1,25 @@
 # Jiazong Gong
 
 
+<style>
+@media (max-width: 600px) {
+  .responsive-container {
+    flex-direction: column;
+  }
+  .responsive-container img {
+    margin-bottom: 20px;
+  }
+  .responsive-container div {
+    margin-right: 0;
+  }
+}
+</style>
+
 <div style="display: flex; justify-content: center; align-items: center; height: 40vh;">
-  <img src="/images/photo.jpeg" alt="Image" width="400"  style="margin-right: 20px;">
-  <div>
+  <div style="max-width: 50%; margin-right: 20px;">
+    <img src="/images/photo.jpeg" alt="Image" style="width: 100%; height: auto;">
+  </div>
+  <div style="max-width: 50%;">
   <p>
   With a deep-rooted curiosity about the universe and a passion for technology, I thrive on exploring cutting-edge technological breakthroughs.
   </p>
