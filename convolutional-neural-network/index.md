@@ -27,13 +27,11 @@ Convolution is one type of linear operation used to extract feature from the inp
  
 After convolution, the dimension of the feature map with stride $s$ and padding $p$ is: 
 
-\begin{equation}
-\operatorname{dim}(\operatorname{con} v(I, K)) =
-\begin{cases}
+$$\operatorname{dim}(\operatorname{con} v(I, K)) = \begin{cases}
 \left(\left\lfloor\frac{n_{H}+2p-f}{s}+1\right\rfloor, \left\lfloor\frac{n_{\mathrm{W}}+2p-f}{s}+1\right\rfloor\right) & s > 0 \\\\
 \left(n_{H}+2p-f, n_{W}+2p-f\right) & s = 0
-\end{cases}
-\end{equation}
+\end{cases}$$
+
 
 
 
