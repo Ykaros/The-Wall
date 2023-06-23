@@ -34,10 +34,6 @@ After convolution, the dimension of the feature map with stride $s$ and padding 
 \end{array}\right.
 \end{equation}
 {{< /raw >}}
-
-
-
-
 where $|x|$ is the floor function of $x$.
 
 After the convolution, feature maps representing different characteristics of the input tensors will be generated and passed onto next layer, which simulates the response of neuron to a specific stimulus. In the process of convolution, multiple kernels will be applied on the input so that feature maps containing diverse characteristics can be extracted from the input. 

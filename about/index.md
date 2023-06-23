@@ -17,7 +17,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 40vh;">
   <div style="max-width: 50%; margin-right: 20px;">
-    <img src="/images/photo.jpeg" alt="Image" style="width: 100%; height: auto;">
+    <img src="/images/photo.jpg" alt="Image" style="width: 100%; height: auto;">
   </div>
   <div style="max-width: 50%;">
   <p>
