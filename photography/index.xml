@@ -79,6 +79,13 @@
  &lt;/div>
  
  
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1108895533/q%3D90_m%3D2048/v2?sig=df793dc7ebd04e3c4d6a444ea991be778cb6ec1511943839a2ab3a688cef9699" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2024&lt;/p>
+ &lt;/div>
+ 
  
 &lt;/div>
 
@@ -89,15 +96,7 @@
  &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
  &lt;img src="https://drscdn.500px.org/photo/1085215125/q%3D90_m%3D2048/v2?sig=c7accbc38f275b99e6629cf4884ca48f7f62f17ed965ff48871ffca3e4572021" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
  &lt;/div>
- &lt;p style="text-align: center;">2020&lt;/p>
- &lt;/div>
- 
- 
- &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
- &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
- &lt;img src="https://drscdn.500px.org/photo/1076197094/q%3D80_m%3D1000/v2?sig=c1b14f89f9d98d3c2f50ebde0f0547da7a4c741ff89b03b7cf46c30315fbffcd" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
- &lt;/div>
- &lt;p style="text-align: center;">2021&lt;/p></description></item><item><title>Portrait</title><link>http://ykaros.github.io/photography/portrait/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/portrait/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ &lt;p style="text-align: center;">2020&lt;/p></description></item><item><title>Portrait</title><link>http://ykaros.github.io/photography/portrait/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/portrait/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
  
  &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
  &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
