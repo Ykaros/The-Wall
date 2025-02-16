@@ -1,90 +1,149 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labyrinth</title><link>http://ykaros.github.io/photography/</link><description>Recent content on Labyrinth</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://ykaros.github.io/photography/index.xml" rel="self" type="application/rss+xml"/><item><title>Abstract</title><link>http://ykaros.github.io/photography/abstract/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/abstract/</guid><description> Geometry
-Texture
-Structure
-Geometry
-Palette
-Fabric
-Motion
-Aerial Blue
-Structure
-Solemn
-Solemn</description></item><item><title>Activity</title><link>http://ykaros.github.io/photography/activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/activity/</guid><description> 2022
-2022
-2022
-2022
-2022
-2023
-2024
-2024
-2024
-2024
-2024</description></item><item><title>Natura</title><link>http://ykaros.github.io/photography/natura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/natura/</guid><description>2021
-2021
-2022
-2022
-2022
-2022
-2022
-2022
-2023
-2023
-2023
-2023
-2024
-2023
-2023
--- 2024
-2024
-2024
-2024
-2024</description></item><item><title>Noir</title><link>http://ykaros.github.io/photography/noir/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/noir/</guid><description> 2018
-2020
-2021
-2021
-2021
-2021
-2021
-2021
-2021
-2021
-2021
-2021
-2023
-2024
-2024
-2024</description></item><item><title>Portrait</title><link>http://ykaros.github.io/photography/portrait/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/portrait/</guid><description> 2022
-2022
-2022
-2023
--- 2023
-2023
-2023
-2023
-2023
-2023
-2023
-2023
-2023
-2024
-2024
-2024</description></item><item><title>Street</title><link>http://ykaros.github.io/photography/street/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/street/</guid><description>2021
-2021
-2023
-2021
-2021
-2022
-2022
-2022
-2022
-2022
-2022
-2022
-2022
-2023
-2023
-2023
-2023
-2024
-2024
-2024
-2024</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labyrinth</title><link>http://ykaros.github.io/photography/</link><description>Recent content on Labyrinth</description><generator>Hugo</generator><language>en</language><atom:link href="http://ykaros.github.io/photography/index.xml" rel="self" type="application/rss+xml"/><item><title>Abstract</title><link>http://ykaros.github.io/photography/abstract/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/abstract/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1074216397/q%3D80_m%3D1500/v2?sig=e8fe427aa1f06d774afb92c39b577b9384de460818232ed51ca33271369d03f4" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">Geometry&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1076624606/q%3D80_m%3D1000/v2?sig=d9007935d0d6f7c10ea8f408ea9bd543896e2c6cd637c343d45e599dcccbd8bf" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">Texture&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1104315160/q%3D90_m%3D2048/v2?sig=f077ab1d234b70035538693cf96863a670db9a3b963fd8284cb8dbd8b3a6afa0" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">Structure&lt;/p></description></item><item><title>Activity</title><link>http://ykaros.github.io/photography/activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/activity/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689063/q%3D80_m%3D2000/v2?sig=fd8a76699edaa724189b0cc1893eff49225934a4c91ba90031d8a69d9a4b14d4" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689123/q%3D80_m%3D2000/v2?sig=45a269d188f9dc2012433396e36da00fdb80c7c4f29f50cb18ed3c86d4a5c0c9" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p>
+ &lt;/div>
+ 
+ 
+&lt;/div>
+
+
+&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689113/q%3D80_m%3D2000/v2?sig=d1208102c3a8e67162b74acf3de59e1cdc5324e3fc2d5a8af8ae20bd3abfa272" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p></description></item><item><title>Natura</title><link>http://ykaros.github.io/photography/natura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/natura/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1047613977/q%3D80_m%3D1500/v2?sig=a1e62673dd946dc43637c9199327259d5a1168964f65fb7a1533e1305b573bb4" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2021&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689110/q%3D80_m%3D1500/v2?sig=07648133b14e13092ec8ecb895eb754aa02f7c6e9afef19c12bba98de020a759" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2021&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689122/q%3D80_m%3D1500/v2?sig=9ed3108f9fd7f6552d249e22b5aa2bd2cdb3f84a3069d2bf70e29b303783f62f" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p></description></item><item><title>Noir</title><link>http://ykaros.github.io/photography/noir/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/noir/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1085215121/q%3D90_m%3D2048/v2?sig=014841f6a6aa75aec622bd106dea4cdb7948071a5fbe04e5b39a8c75fd2d0363" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2018&lt;/p>
+ &lt;/div>
+ 
+ 
+ 
+&lt;/div>
+
+
+&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1085215125/q%3D90_m%3D2048/v2?sig=c7accbc38f275b99e6629cf4884ca48f7f62f17ed965ff48871ffca3e4572021" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2020&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1076197094/q%3D80_m%3D1000/v2?sig=c1b14f89f9d98d3c2f50ebde0f0547da7a4c741ff89b03b7cf46c30315fbffcd" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2021&lt;/p></description></item><item><title>Portrait</title><link>http://ykaros.github.io/photography/portrait/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/portrait/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689060/q%3D80_m%3D2000/v2?sig=671eceab95be069aea715751662eaeff39a436b86338ffa33d1615c4431cc3e3" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1073689115/q%3D80_m%3D2000/v2?sig=59124107def64ec3ca783458cbb5b8f63e15ab47ad303435acfe6debe53362e3" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p>
+ &lt;/div>
+ 
+ 
+&lt;/div>
+
+&lt;!--
+&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1074216413/q%3D80_m%3D2000/v2?sig=c521e394ec04979a3d3984b1c290c2497632363f51878df986a80b6ba528dccd" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2022&lt;/p></description></item><item><title>Street</title><link>http://ykaros.github.io/photography/street/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://ykaros.github.io/photography/street/</guid><description>&lt;div style="display: flex; justify-content: space-between;">
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1047613741/q%3D80_m%3D1500/v2?sig=eb1528d83f28c15461f8c5e26dbc030dbc3ad59813b4256d4516dd521f013d0c" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2021&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1047767681/q%3D80_m%3D1500/v2?sig=e6fa530174bbc7e0f7b8a48ad01e3d52d177094bba9dbbf84736c567c54d69a6" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2021&lt;/p>
+ &lt;/div>
+ 
+ 
+ &lt;div style="flex: 1; margin: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+ &lt;div style="flex-grow: 1; display: flex; align-items: center; justify-content: center;">
+ &lt;img src="https://drscdn.500px.org/photo/1076197099/q%3D80_m%3D1000/v2?sig=67b922a67a0e26924e00941eb9230da83d227eb79f7bc87241b7029f15839e9b" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+ &lt;/div>
+ &lt;p style="text-align: center;">2023&lt;/p></description></item></channel></rss>
